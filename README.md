@@ -2,7 +2,7 @@
 website with Glassh Effect Pure CSS :snowflake:
 Developed by Dev Ed customized by me :seedling:
 
-## For the art I used and then the put is all to in the VSCode blender
+## For the art I used this bellow and then I mixed all in the VSCode blender
 voilá
 
 <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
